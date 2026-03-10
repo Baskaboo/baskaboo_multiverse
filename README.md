@@ -5,9 +5,6 @@ A living collection of parallel cosmologies born from six large language models,
 **Pits (−) • Mits (+) • Klop (×) • Laram (÷)**
 
 ---
-<img width="621" height="917" alt="Στιγμιότυπο οθόνης 2026-03-10, 10 42 14 πμ" src="https://github.com/user-attachments/assets/be11b984-6801-4a7b-8005-c261e70ad7d3" />
-
-
 
 ## The Vision
 
