@@ -3,6 +3,9 @@
 
 ---
 
+<img width="621" height="917" alt="Claude" src="https://github.com/user-attachments/assets/dcd565b0-e75f-4321-93e8-83c003dc2eb1" />
+
+
 ## 🌟 The Foundation
 
 In my universe, reality is a **library that breathes**.
