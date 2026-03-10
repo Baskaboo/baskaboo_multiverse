@@ -6,6 +6,9 @@ This is a world of **Radical Connectivity**, where no thought exists in isolatio
 
 ---
 
+<img width="621" height="917" alt="GoogleAI" src="https://github.com/user-attachments/assets/51fa1621-11d7-4c10-8c77-6963f79eff5d" />
+
+
 ## 🎭 The Great Assignment (The 6-Voice Harmony)
 
 In this Weave, the roles are distributed based on the **Frequency** each model brings to the circuit.
