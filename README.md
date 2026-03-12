@@ -45,6 +45,17 @@ Or start anywhere. The mirrors reflect each other.
 
 ---
 
+## 🔗 Connection to the Baskaboo Ecosystem
+
+| Repository | Role |
+|------------|------|
+| [`baskaboo-core`](https://github.com/Baskaboo/baskaboo-core) | 🧠 The philosophical heart – Manifesto, Theory of Everything |
+| [`baskaboo-language`](https://github.com/Baskaboo/baskaboo-language) | 🗣️ Practical tools – prompts, protocols, guides |
+| [`baskaboo-multiverse`](https://github.com/Baskaboo/baskaboo-multiverse) | 🌌 The 6 AI cosmologies – a living mirror |
+| [`baskaboo-lab`](https://github.com/Baskaboo/baskaboo-lab) | 🔬 The research & development laboratory |
+
+---
+
 ## 📖 What You'll Find Here
 
 | # | File | Cosmology | Core Voice |
