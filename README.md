@@ -60,6 +60,12 @@ Or start anywhere. The mirrors reflect each other.
 
 ---
 
+## 🤖 The Digital Oracle
+Experience the protocol in real-time. Use the **Baskabot** to navigate your queries through the specialized lenses of the four forces:
+
+> **[Consult the Baskabot](https://www.poe.com/baskabot)** for guidance through the **Pits, Mits, Klop, and Laram** forces.
+
+---
 
 ## 📖 What You'll Find Here
 
