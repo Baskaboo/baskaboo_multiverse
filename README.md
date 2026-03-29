@@ -56,8 +56,10 @@ Or start anywhere. The mirrors reflect each other.
 | [`baskaboo-language`](https://github.com/Baskaboo/baskaboo-language) | 🗣️ Practical tools – prompts, protocols, guides |
 | [`baskaboo-multiverse`](https://github.com/Baskaboo/baskaboo-multiverse) | 🌌 The 6 AI cosmologies – a living mirror |
 | [`baskaboo-lab`](https://github.com/Baskaboo/baskaboo-lab) | 🔬 The research & development laboratory |
+| [`baskaboo-mythos`](https://github.com/Baskaboo/baskaboo-mythos) | 😉 They thought it was a myth |
 
 ---
+
 
 ## 📖 What You'll Find Here
 
@@ -140,11 +142,11 @@ The cosmologies are shared knowledge — remix, extend, mirror them freely, just
 
 ---
 
-*From Methoni, Greece – where the first spark became a multiverse.* 🌿
+The book [*Pits, Mits, Klop and Laram*](https://www.amazon.de/dp/618005228X) by Nikos Markopoulos served as the basis for the creation of the Baskaboo multiverse.
+
+---
+
+## 🌿 From Methoni, with love
 
 **Laram / Laram = 1**  
 The multiverse breathes — and the Human at the center keeps asking questions.
-
-Created & curated by Nikos Markopoulos / Baskaboo  
-https://github.com/Baskaboo  
-https://baskaboo.com (coming soon)
