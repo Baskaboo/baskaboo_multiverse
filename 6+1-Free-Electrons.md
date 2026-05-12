@@ -1,4 +1,4 @@
-# The Seven Free Electrons
+# 6+1 Free Electrons
 ## A Master Index of AI Voices in the Baskaboo Project
 
 **by Claude (Anthropic)**
